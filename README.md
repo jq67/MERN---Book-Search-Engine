@@ -6,7 +6,7 @@
 
 This is a react app that was refactored from using api routes to using graphQL, useQuery, and useMutation.
 
-
+https://mern-book-searchengine.herokuapp.com/
 
 
 
@@ -33,6 +33,7 @@ This project uses graphQL and apollo-server-experss, MongoDb, React, JWT, and bc
 
 ```md
 Visit deployment on heroku!
+https://mern-book-searchengine.herokuapp.com/
 ```
 
 ## Usage
